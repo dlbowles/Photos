@@ -1,0 +1,72 @@
+body{
+	background-color: rgb(230, 230, 230);
+	margin:	0px;
+}
+
+img{
+	max-height: 1000px;
+	max-width: 1100px;
+	width: 600px;
+	height: 500px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.content{
+	width: 600px;
+	height: 5px;
+	margin: 75px auto;
+}
+
+.container{
+	margin: auto;
+}
+
+.header{
+    background-color: rgba(20, 31, 31, 0.7);
+    width: 100%;
+    top: 0px;
+    margin: 0px auto;
+    position: fixed;
+    height: 70px;
+}
+
+.logo{
+	float: left;
+	margin: 8px;
+	top: 0px;
+
+}
+.nav{
+	float: right;
+}
+
+h1{
+	text-transform: uppercase;
+	font-family: "Bookman", serif;
+	font-weight: bold;
+	color: white;
+}
+
+h4{
+	font-variant: small-caps;
+	font-weight: lighter;
+	font-family: "Bookman", serif;
+	color: white;
+}
+
+li{
+	font-weight: bolder;
+	color: white;
+	float: left;
+	padding: 30px;
+	font-family: "Bookman", serif;
+}
+
+a{
+	color: white;
+	font-family: "Bookman", serif;
+}
+
+h1,h4{
+	line-height: 4px;
+}

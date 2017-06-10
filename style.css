@@ -1,0 +1,70 @@
+body{
+	background-image: url("Ridge.jpg");
+	background-attachment: fixed;
+	background-size: 1375px 675px;
+	background-repeat: no-repeat;
+	margin: 0px
+}
+
+.header{
+    width: 100%;
+    top: 0px;
+    margin: 0px auto;
+    position: fixed;
+    height: 70px;
+}
+
+.logo{
+	float: left;
+	margin: 8px;
+	top: 0px;
+
+}
+.nav{
+	float: right;
+}
+
+h1{
+	text-transform: uppercase;
+	font-family: "Bookman",serif;
+	font-weight: bold;
+	color: white;
+}
+
+h4{
+	font-variant: small-caps;
+	font-weight: lighter;
+	font-family: "Bookman", serif;
+	color: white;
+}
+
+li{
+	font-weight: bolder;
+	color: white;
+	float: left;
+	padding: 30px;
+	font-family: "Bookman", serif;
+}
+
+a{
+	color: white;
+	font-family: "Bookman", serif;
+}
+
+h1,h4{
+	line-height: 4px;
+}
+
+p{
+	position: absolute;
+	color: white;
+	bottom: 0;
+	right: 0;
+	padding-right: 10px;
+	font-variant: small-caps;
+	font-weight: lighter;
+	font-family: "Bookman", serif;
+	font-size: 60%
+
+
+}
